@@ -1,4 +1,4 @@
-public class SolarSystemBasic {
+public class solarSystemBasic {
     String Planets;
     String Moon;
     String Sun;
